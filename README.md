@@ -58,7 +58,6 @@ The purpose of this project was to learn how real datasets are analyzed using Py
 
 ## Future Improvements
 
-- Add charts using Matplotlib
 - Create dashboard in Power BI
 - Add more IPL analysis queries
 
